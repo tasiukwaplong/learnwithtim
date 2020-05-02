@@ -54,7 +54,7 @@ var fName, amount, lname, email, phone, matric, category;//variables to be used
 
    function payWithPayant() {
                 var handler = Payant.invoice({
-                  "key": "27be8eda0f44088e4447389be5ce73c412d37d49",
+                  "key": "6272422fa66b1d9952392b8612e83f5bb17a1b4f",
                   "client": {
                         "first_name": fName,
                         "last_name": lname,
